@@ -1,6 +1,6 @@
 # CPU Colocation
 
-This is a sequentail cpu-based program to for colocation mining [1,2]
+This is a sequentail cpu-based program to for colocation mining [1,2,3]
 
 ### How to Compile
 
@@ -21,3 +21,5 @@ This is a sequentail cpu-based program to for colocation mining [1,2]
 [1] Arpan Man Sainju, Danial Aghajarian, Zhe Jiang, & Sushil K Prasad, (2018). Parallel grid-based colocation mining algorithms on GPUs for big spatial event data. IEEE Transactions on Big Data.
 
 [2] Arpan Ma Sainju, and Zhe Jiang. "Grid-based colocation mining algorithms on gpu for big spatial event data: A summary of results." International Symposium on Spatial and Temporal Databases. Springer, Cham, 2017.
+
+[3] Huang Y, Shekhar S, Xiong H. Discovering colocation patterns from spatial data sets: a general approach. IEEE Transactions on Knowledge and data engineering. 2004 Nov 1;16(12):1472-85.
